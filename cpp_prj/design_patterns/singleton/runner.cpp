@@ -10,5 +10,7 @@ using namespace std;
 int main()
 {
     std::cout << "Main Function" << std::endl;
-    singleton m_singleton;
+    singleton *m_pobject = singleton::createInstance();
+
+    return 0;
 }

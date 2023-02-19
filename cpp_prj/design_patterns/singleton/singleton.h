@@ -6,7 +6,12 @@ Author   : Pradeep S
 using namespace std;
 class singleton
 {
-    public:
     singleton();
     ~singleton();
+
+    static singleton *m_psingleton;
+
+    public:
+    static singleton* createInstance();
+
 };
