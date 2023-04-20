@@ -13,5 +13,6 @@ class singleton
 
     public:
     static singleton* createInstance();
+    void deleteInstance();
 
 };

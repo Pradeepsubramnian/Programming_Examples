@@ -20,6 +20,14 @@ singleton* singleton::createInstance()
     }
     return m_psingleton;
 }
+void singleton::deleteInstance()
+{
+    if(m_psingleton != NULL)
+    {
+        delete m_psingleton;
+        std::cout << "singleton::deleteInstance()" << std::endl;
+    }
+}
 singleton::~singleton()
 {
     std::cout << "singleton::~singleton()" << std::endl;
