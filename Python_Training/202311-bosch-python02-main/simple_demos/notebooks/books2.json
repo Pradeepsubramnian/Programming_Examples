@@ -1,0 +1,38 @@
+[
+    {
+        "title": "The Acccursed God",
+        "author": "Vivek Dutta Mishra",
+        "price": 299,
+        "rating": 4.6
+    },
+    {
+        "title": "Rashmirathi",
+        "author": "Ramdhari Singh Dinkar",
+        "price": 109,
+        "rating": 4.8
+    },
+    {
+        "title": "Asura",
+        "author": "Neelkanthan",
+        "price": 499,
+        "rating": 3.6
+    },
+    {
+        "title": "Manas",
+        "author": "Vivek Dutta Mishra",
+        "price": 199,
+        "rating": 4.5
+    },
+    {
+        "title": "One Night at Call Center",
+        "author": "Chetan Bhagat",
+        "price": 399,
+        "rating": 3.9
+    },
+    {
+        "title": "Kuruksehtra",
+        "author": "Ramdhari Singh Dinkar",
+        "price": 99,
+        "rating": 4.1
+    }
+]
